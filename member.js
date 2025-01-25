@@ -7,7 +7,4 @@ function skillsmember(){
         x.style.display = "ghermez";
         x.style.display = "block";
     }
-
-    
-
 }
