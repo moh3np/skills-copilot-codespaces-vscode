@@ -7,4 +7,5 @@ function skillsmember(){
         x.style.display = "none";
         x.style.display = "block";
     }
+    
 }
